@@ -1,0 +1,21 @@
+Android
+1.API'S of STATE,BLOOD GROUP,GENDER,Occupation,getofflineprice,healthcardplan,get_doctor/48,get_service provider,search_patient
+2.Connection of "HelloCabServiceProvider" app with our application as everytime any new api is been hit this api "http://35.167.147.253/v1/AgentApiWebService/locationUpdateCron" is been called.
+3.Customer App source code.
+4.Signed Key Apk of app on Play store and signed APK.
+5.Logcat Not Working not able to find the logs of api request and response,exceptions which are coming in the application.
+6.Project FLow Document and offline Data Sync
+7.SQLIte Structure
+
+
+
+Back End
+1.Table Relation Document
+2.constants(FlAG) meaning document in column
+3.Project FLow
+4.Offline Data sync Arch
+5.Apache setting for domain and IP
+
+
+
+
